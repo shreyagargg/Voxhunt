@@ -1,0 +1,15 @@
+:root{
+    --primary-color: #fa75f8;
+    --secondary-color: #000000;
+    --text-color: #ffffff;
+}
+
+
+.card{
+    background-color: black;
+    height: 200px;
+    width: 400px;
+    border: #ffffff solid 2px;
+    border-left: 40px solid var(--primary-color);
+
+}
